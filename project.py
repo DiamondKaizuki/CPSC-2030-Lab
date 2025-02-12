@@ -6,3 +6,5 @@ while True:
 if I1 == "y":
 	print("\nWelcome User")
         break
+elif I1 == "n":
+        print("\nPlease Bring A Human Being To The Machine")
