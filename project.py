@@ -1,3 +1,5 @@
+import time
+
 print("Hello there, before you continue here's a quick question")
 print("Are you a human being?")
 while True:
