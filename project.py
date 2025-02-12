@@ -8,3 +8,5 @@ if I1 == "y":
         break
 elif I1 == "n":
         print("\nPlease Bring A Human Being To The Machine")
+else:
+        print("\nPlease Enter Either Y or N")
